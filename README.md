@@ -1,4 +1,4 @@
-### Hello Word! I'am Gian Milani, software developer 👋👨🏼‍💻
+### Hello World! I'am Gian Milani, software developer 👋👨🏼‍💻
 ##
 <a href="https://app.daily.dev/Gian_Milani">
     <img src="https://api.daily.dev/devcards/e2c5ea2d30ff4400b808ff4e6c2ffba5.png?r=znw" width="256" alt="Gian Milani's Dev Card" align="right"/>
