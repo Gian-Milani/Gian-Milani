@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Javascript
 - 🤔 I’m looking for help with Back-End
 ##
-<h3>Some technologies i know</h3>
+<h3>Technologies used</h3>
 <div style="display: flex" align="left">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
