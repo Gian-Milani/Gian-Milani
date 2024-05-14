@@ -5,8 +5,7 @@
 </a>
 
 - 🔭 I’m currently working at 4R Tecnologia
-- 🌱 I’m currently learning Javascript
-- 🤔 I’m looking for help with Back-End
+- 🌱 I’m currently learning the JavaScript ecosystem
 ##
 <h3>Technologies used</h3>
 <div style="display: flex" align="left">
