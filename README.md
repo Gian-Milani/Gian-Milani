@@ -1,7 +1,7 @@
 ### Hello World! I'am Gian Milani, software developer 👋👨🏼‍💻
 ##
 <a href="https://app.daily.dev/Gian_Milani">
-    <img src="https://api.daily.dev/devcards/e2c5ea2d30ff4400b808ff4e6c2ffba5.png?r=znw" width="256" alt="Gian Milani's Dev Card" align="right"/>
+    <img src="https://api.daily.dev/devcards/v2/As5fO7Tq65C4DjtSylSzn.png?type=default&r=5p2" width="256" alt="Gian Milani's Dev Card" align="right"/>
 </a>
 
 - 🔭 I’m currently working at 4R Tecnologia
