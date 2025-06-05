@@ -5,7 +5,8 @@
 </a>
 
 - 🔭 I’m currently working at 4R Tecnologia
-- 🌱 I’m currently learning the JavaScript ecosystem
+- 🌱 I’m currently learning Node.js
+- 👨🏼‍💻 Full-stack developer focused on the JavaScript ecosystem
 ##
 <h3>Technologies used</h3>
 <div style="display: flex" align="left">
