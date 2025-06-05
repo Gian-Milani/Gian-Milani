@@ -24,6 +24,7 @@
     <img align="center" alt="SQLServer" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="PostgreSQL" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" />
+    <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
     <img align="center" alt="SQLite" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
     <img align="center" alt="Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" />
     <img align="center" alt="Figma" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />  
