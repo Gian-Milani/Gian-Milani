@@ -17,7 +17,7 @@ I also have strong expertise in **databases**, especially **SQL Server** and **P
 - 📱 Focused on **GeneXus (web & mobile)** and **React Native**
 - 🔧 Improving backend skills with **Node.js + Prisma**
 - 🌎 Intermediate English  
-  Duolingo score: **84**  
+  Duolingo score: **90**  
   [My profile →](https://www.duolingo.com/profile/Gian.Milani?via=share_profile_qr)
 
 ---
@@ -38,6 +38,7 @@ I also have strong expertise in **databases**, especially **SQL Server** and **P
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" />
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+<img height="30" src="https://avatars.githubusercontent.com/u/16494738?s=200&v=4" />
 
 #### **Frontend & Mobile**
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
