@@ -17,7 +17,7 @@ I also have strong expertise in **databases**, especially **SQL Server** and **P
 - 📱 Focused on **GeneXus (web & mobile)** and **React Native**
 - 🔧 Improving backend skills with **Node.js + Prisma**
 - 🌎 Intermediate English  
-  Duolingo score: **90**  
+  Duolingo score: **100**  
   [My profile →](https://www.duolingo.com/profile/Gian.Milani?via=share_profile_qr)
 
 ---
