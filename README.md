@@ -14,7 +14,7 @@ I also have strong expertise in **databases**, especially **SQL Server** and **P
 
 ### 🚀 Currently
 - 💼 Software Developer at **4R Tecnologia da Informação** and **TH Desenvolvimento**
-- 📱 Focused on **GeneXus (web & mobile)** and **React Native**
+- 📱 Focused on **GeneXus (web & mobile)**, **React JS** And **React Native**
 - 🔧 Improving backend skills with **Node.js + Prisma**
 - 🌎 Intermediate English  
   Duolingo score: **100**  
